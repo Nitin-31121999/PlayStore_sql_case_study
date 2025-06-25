@@ -3,6 +3,17 @@
 ## Overview
 This case study explores the Playstore Apps data, derived from Kaggle, and cleaned using Python before loading into a MySQL Workbench. The data includes various details about apps on the Playstore, such as their category, rating, reviews, size, number of installs, type (free or paid), price, content rating, genres, last update, current version, and Android version.
 
+## Key Insights
+
+![image](https://github.com/user-attachments/assets/550fa5a6-3a99-471b-b66a-c4ecc9f83650)
+
+![image](https://github.com/user-attachments/assets/15b51fe6-1b35-4270-97a2-e9593e04ef01)
+
+![image](https://github.com/user-attachments/assets/c0f34c56-a281-41a7-a14a-152701ed1d89)
+
+
+
+
 The case study attempts to answer several key questions using SQL queries, providing valuable insights for different roles such as a market analyst, a business strategist, a data analyst, a database administrator, and more.
 
 ## Schema
